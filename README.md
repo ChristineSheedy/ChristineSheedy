@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Christinemsheedy
+- 👋 Hi, I’m @Christinesheedy
 - 👀 I’m interested in ...Data Analytics 
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
